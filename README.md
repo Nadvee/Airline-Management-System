@@ -1,4 +1,3 @@
-Airline Management System
 ![unknown_2024 07 01-16 01](https://github.com/Nadvee/Airline-Management-System/assets/101087948/61762113-fd20-4992-a452-796d413b82eb)
 ![ja1](https://github.com/Nadvee/Airline-Management-System/assets/101087948/dd886ef7-aef8-49cc-b503-9c4c9845594d)
 ![ja2](https://github.com/Nadvee/Airline-Management-System/assets/101087948/e8c7c89b-d81d-42f3-b9b9-256d2779da10)
